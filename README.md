@@ -1,0 +1,3 @@
+Pi Games Mai 2023
+
+Beschreibung: Dieses Repository präsentiert das erfolgreiche Ergebnis unserer Projektarbeit aus der Mittelstufe, in der wir ein Steuerungssystem für die von den Ingenieuren unserer Schule entworfenen Fahrzeuge entwickelt haben. Mit dieser Steuerung, die zunächst ohne die Notbremsfunktion konzipiert wurde (diese wurde später ergänzt), konnten wir beim Pi Games Event in unserer Division den ersten Platz erringen. Das Projekt ist nun abgeschlossen und dient als Schaufenster für Interessierte, die einen Einblick in die geleistete Arbeit und die dahinterstehenden technischen Details gewinnen möchten.
